@@ -1,0 +1,5 @@
+images - 실제 이미지 파일
+label - 초성 + 중성 + 종성 을 합친 980개의 모든 한글 조합 레이블
+label_image_map - 각 이미지파일에 대한 레이블(정답) 1열은 이미지 파일 이름, 2열은 레이블
+X_data.npy -  feature부분만 떼어내서 numpy 형태로 저장해놓은 파일입니다.
+y_data.npy - 마찬가지로 label 부분만 numpy 형태로 저장해놓은 파일입니다.
